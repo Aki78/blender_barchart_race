@@ -1,0 +1,6 @@
+# png series to mp4. makesure its in the form ####.png
+ffmpeg -r 30 -i 0%3d.png -vcodec libx264 -r 30  out.mp4
+
+#compressing mp4 to smaller mp4. crf between 18 and 40. 18 is seemingly lossless and 40 is almost unreadable. 40 would be very small though.
+ffmpeg -i input.mp4 -vcodec libx264 -crf 28 out.mp4
+

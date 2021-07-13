@@ -1,0 +1,17 @@
+plotly
+pandas
+bar-chart-race
+
+(kdenlive) -> Video Edit
+(natron) -> Video Effects
+(Ardour) -> Sound Edit?
+
+
+/* Useful Linux Software */
+https://itsfoss.com/adobe-alternatives-linux/
+
+/* Finland Corona Data */
+https://thl.fi/en/web/thlfi-en/statistics/statistical-databases/open-data/confirmed-corona-cases-in-finland-covid-19-
+
+/* Possible Map Engine with Plotly */
+https://towardsdatascience.com/covid-19-map-animation-with-python-in-5-minutes-2d6246c32e54
